@@ -1,0 +1,11 @@
+{
+  "name": "SamsungCodeQuality",
+  "version": "0.0.1",
+  "description": "Samsung TV code quality static analysis tool",
+  "author": "Ainsley Chong <ainsley.chong@gmail.com>",
+  "dependencies": {
+    "zombie": "2.0.x",
+    "mocha": "1.7.x"
+  },
+  "engine": "node >= 0.6.0"
+}
